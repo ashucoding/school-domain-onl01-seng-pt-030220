@@ -18,4 +18,5 @@ end
 @roster[grade] << name
 end
 
-def grade
+def grade(number)
+  
