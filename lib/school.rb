@@ -10,4 +10,5 @@ def roster
 end
 
 def add_student(name, grade)
-  @ad
+  @studdent_name = name
+  @student_grade 
